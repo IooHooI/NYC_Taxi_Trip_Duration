@@ -5,3 +5,9 @@ sample_submission.csv
 test.csv
 
 train.csv
+
+NYC_Taxi_Trip_Duration/train.csv
+
+NYC_Taxi_Trip_Duration/test.csv
+
+NYC_Taxi_Trip_Duration/sample_submission.csv
